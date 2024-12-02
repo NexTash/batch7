@@ -11,7 +11,6 @@ class LinkList
 {
     Node * first_node = NULL;
     Node * last_node = NULL;
-
     public:
         void add_node() {
             Node * new_node = new Node();
